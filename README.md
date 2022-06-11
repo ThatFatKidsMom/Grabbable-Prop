@@ -4,7 +4,7 @@
 Prefab for allowing remote players to grab objects and manipulate its position.
 
 ## **Installation**
-[Video](https://youtu.be/k1rVWK0o95A)
+[Video](https://youtu.be/ZhQcr8w8vps)
 
 - Drag the "Grabbable Prop" prefab into the heirarchy  
 - Right click on the prefab to unpack it and then drag it onto the base of your avatar  
