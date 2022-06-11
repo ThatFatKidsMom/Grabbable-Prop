@@ -1,7 +1,7 @@
 # Grabbable prop
 [![Twitter URL](https://img.shields.io/twitter/follow/ThatFatKidsMom?style=social)](https://twitter.com/ThatFatKidsMom)
 
-Prefab for allowing a remote players to grab objects and manipualte its position.
+Prefab for allowing remote players to grab objects and manipualte its position.
 
 ## **Installation**
 [Video](https://youtu.be/k1rVWK0o95A)
