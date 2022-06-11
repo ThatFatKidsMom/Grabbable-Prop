@@ -21,7 +21,7 @@ Prefab for allowing remote players to grab world constrained objects and manipul
 A physbone and series of constraints control position of the prop.
 
 ## **Download**
-[Latest release](https://github.com/ThatFatKidsMom/Avatar-Prop/releases/tag/1.0.0)
+[Latest release](https://github.com/ThatFatKidsMom/Grabbable-Prop/releases/tag/1.0.0)
 
 ## **License**
 [MIT](https://github.com/ThatFatKidsMom/Avatar-Prop/blob/main/LICENSE)
