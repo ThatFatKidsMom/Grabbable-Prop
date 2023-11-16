@@ -27,4 +27,4 @@ A physbone and series of constraints control position of the prop.
 [MIT](https://github.com/ThatFatKidsMom/Avatar-Prop/blob/main/LICENSE)
 
 ## **Contact**
-If you need help with something you can message me on discord at ThatFatKidsMom#6462
+If you need help with something you can message me on discord at ThatFatKidsMom
